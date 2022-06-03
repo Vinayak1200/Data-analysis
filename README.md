@@ -41,4 +41,5 @@ Top 20 Director Who Directs Maximum Movies?
 
 # Technology used : 
 Jupyter notebook
+Python language
 
