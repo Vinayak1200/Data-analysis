@@ -39,6 +39,10 @@ Top 20 Director Who Directs Maximum Movies?
 
 
 
-# Technology used : 
-Jupyter notebook
+# Tools used : 
+Jupyter notebook 
+# Language used :
+Python
+# Libraries and frameworks used :
+Numpy , Matplotlib , scikit-learn , pandas
 
