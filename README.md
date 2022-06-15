@@ -1,3 +1,8 @@
+# Data analysis:
+This repository contains various data analysis projects I have learnt, 
+ranging from movie data analysis to sales analysis
+
+
 # TMDb-movie-dataset-analysis
 
 # About dataset :
