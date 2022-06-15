@@ -38,9 +38,19 @@ Life Time Profit Earn By Each Production Company?
 Top 20 Director Who Directs Maximum Movies?
 
 
+# Sales data analysis;
+This data analysis is done in the file loaddata.py
+It looks at the sales data of the year 2020 and 2019, and creates
+various statistical descriptions about that data.
+
+# Titanic data analysis:
+This jupyter notebook analyses the data of the passengers
+of the RMS Titanic, which sank on april 15, 1912  after striking an 
+iceberg during her maiden voyage from Southampton, 
+UK, to New York City.
 
 # Tools used : 
-Jupyter notebook 
+Jupyter notebook
 # Language used :
 Python
 # Libraries and frameworks used :
