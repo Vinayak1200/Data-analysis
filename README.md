@@ -21,6 +21,15 @@ of the RMS Titanic, which sank on april 15, 1912  after striking an
 iceberg during her maiden voyage from Southampton, 
 UK, to New York City.
 
+# Lego data analysis:
+This is another practice mini project, involving data analysis of products sold by the very famous company, Lego.
+The product data is in the excel files, giving detailed information of every Lego set sold.
+The project has 2 main objectives :    (i) Finding percentage of Star Wars themed lego sets sold till present.
+                                       (ii) Finding the year in which Star Wars was not the popular Lego sets theme.
+                                                  
+                                                  
+ To know more about Lego, go to this link : https://www.lego.com/en-my/aboutus/lego-group/the-lego-group-history/ 
+ 
 # Tools used : 
 Jupyter notebook
 # Language used :
